@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Codebase and data used in my Master Thesis  
+Codebase and data used in my [Master Thesis  ](https://www.hse.ru/en/edu/vkr/219699559)
 Comments in the code are in Russian  
 Title: "Sentiment Analysis of Short Informal Texts"  
 Data was taken from:
