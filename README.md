@@ -1,5 +1,6 @@
 # Sentiment-Analysis
-My Master Thesis  
+Codebase and data used in my Master Thesis
+Comments in codebase are in Russian
 Title: "Sentiment Analysis of Short Informal Texts"  
 Data was taken from:
 - Loukachevitch N., Rubtsova Y. 2016. Overcoming Time Gap and Data Sparsity in Tweet Sentiment Analysis. Proc. International Conference "Dialog 2016", Computational Linguistics and Intellectual Technologies 15: pp. 416-426.
